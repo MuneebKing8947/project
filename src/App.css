@@ -1,0 +1,190 @@
+.homepage {
+    text-align: center;
+  }
+  
+  .header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 50px 0;
+  }
+  
+  .header h1 {
+    font-size: 36px;
+  }
+  
+  .header p {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  
+  .features {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+  }
+  
+  .feature-card {
+    width: 30%;
+  }
+  
+  .footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+  }
+
+  
+
+
+
+  .about-page {
+    text-align: center;
+  }
+  
+  .header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 50px 0;
+  }
+  
+  .header h1 {
+    font-size: 36px;
+  }
+  
+  .header p {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  
+  .content {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+  }
+  
+  .card {
+    width: 30%;
+  }
+  
+  .card .p-card-title {
+    font-size: 24px;
+  }
+  
+  .card .p-card-content {
+    font-size: 16px;
+  }
+  
+
+  
+
+
+
+
+  .contact-page {
+    text-align: center;
+  }
+  
+  .header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 50px 0;
+  }
+  
+  .header h1 {
+    font-size: 36px;
+  }
+  
+  .header p {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  
+  .content {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+  }
+  
+  .card {
+    width: 40%;
+  }
+  
+  .card form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .card .p-field {
+    margin-bottom: 20px;
+  }
+  
+  .card .p-button {
+    align-self: flex-end;
+  }
+  
+  .card .p-button {
+    align-self: flex-end;
+  }
+
+  
+
+
+
+
+
+
+  .signin-page {
+    text-align: center;
+  }
+  
+  
+  
+  .header h1 {
+    font-size: 36px;
+  }
+  
+  .header p {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  
+  .content {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  
+  .card {
+    width: 30%;
+  }
+  
+  .card form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .card .p-field {
+    margin-bottom: 20px;
+  }
+  
+  .card .p-button {
+    margin-right: 150px;
+  }
+  
+
+  .Login-page {
+    text-align: center;
+  }
+  
+  .nav {
+    display: flex;
+    justify-content: center;
+    
+  }
+  
+  .model .p-menuitem {
+    margin: 0 10px; 
+  }
+  
+  
+ 
+  
